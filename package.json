@@ -1,5 +1,5 @@
 {
-	"name": "sql-formatter",
+	"name": "vscode-vscode-sql-formatter",
 	"displayName": "SQL Formatter",
 	"description": "Powerful SQL Formatter",
 	"version": "0.0.1",
@@ -12,13 +12,13 @@
 		"Programming Languages"
 	],
 	"activationEvents": [
-		"onCommand:sql-formatter.helloWorld"
+		"onCommand:vscode-sql-formatter.helloWorld"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "sql-formatter.helloWorld",
+				"command": "vscode-sql-formatter.helloWorld",
 				"title": "Hello World"
 			}
 		]

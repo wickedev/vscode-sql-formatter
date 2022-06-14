@@ -1,6 +1,6 @@
-# sql-formatter README
+# vscode-sql-formatter README
 
-This is the README for your extension "sql-formatter". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vscode-sql-formatter". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
