@@ -34,9 +34,9 @@ import { Override } from "antlr4ts/Decorators";
 import { RuleContext } from "antlr4ts/RuleContext";
 import { Vocabulary } from "antlr4ts/Vocabulary";
 import { VocabularyImpl } from "antlr4ts/VocabularyImpl";
+import { MySQLBaseLexer } from "./MySQLBaseLexer";
 
 import * as Utils from "antlr4ts/misc/Utils";
-
 
 export class MySQLLexer extends MySQLBaseLexer {
 	public static readonly ACCESSIBLE_SYMBOL = 1;
